@@ -9,5 +9,9 @@ Chroma consists of hue and saturation is separated from value.
 Under different condition, chroma is invariant.
 
 
-https://user-images.githubusercontent.com/67106441/233288723-a4ae3c70-10d4-4aa0-86b3-1151453f2899.mp4
+
+
+https://github.com/TheQuestHS/HandSign-Detection/assets/67106441/73fd5b44-1585-4044-82cf-d384efa5c6f4
+
+
 
